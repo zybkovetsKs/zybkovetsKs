@@ -1,29 +1,19 @@
 # Ksenia Zybkovets
 
-**AI Transformation & Data Science Leader | Strategy, Adoption & Delivery**
+**AI Transformation & Data Science Leader**
 
-I turn business priorities into focused AI and Data Science roadmaps, lead international teams, and guide delivery through implementation, monitoring and governance.
-
-My background spans **25+ years in analytics and Data Science**, **10+ years leading international DS/DE teams**, and work across **50+ ML projects**. I combine leadership experience in financial services with hands-on AI product development through **KSENAI**, my independent applied AI practice.
-
-## What I bring
-
-- **Data Science leadership:** team development, portfolio prioritization and alignment across technical and business stakeholders.
-- **AI transformation and delivery:** use-case discovery, clear scope, success measures and practical implementation roadmaps.
-- **Production governance:** model lifecycle oversight, real-time monitoring and KPI/SLA reporting.
-- **Applied AI:** LLM evaluation, AI search visibility assessments and focused ChatGPT-based assistants.
+I build and improve Data Science functions and turn business needs into practical AI solutions. My background spans **25+ years in analytics**, **10+ years leading international teams**, and **50+ ML projects**.
 
 ## Selected work
 
-| Project | My contribution |
-|---|---|
-| [International Data Science Leadership](https://github.com/zybkovetsKs/portfolio/blob/main/projects/data-science-leadership.md) | Group roadmap across 10 countries; distributed team leadership; delivery and monitoring governance |
-| [AI Search Visibility & LLM Evaluation](https://github.com/zybkovetsKs/portfolio/blob/main/projects/ai-search-visibility.md) | Product definition, assessment methodology and hands-on AI-assisted development |
+**[International Data Science Leadership](https://github.com/zybkovetsKs/portfolio/blob/main/projects/data-science-leadership.md)**  
+At 4finance, owned the group Data & AI roadmap across **10 countries** and led a distributed team of **9**. At Digital Finance International, redesigned DS processes and established real-time model monitoring and KPI/SLA reporting.
 
-At KSENAI, I personally scope, design and deliver the work. This is separate from my previous roles managing Data Science teams.
+**[AI Search Visibility & LLM Evaluation](https://github.com/zybkovetsKs/portfolio/blob/main/projects/ai-search-visibility.md)**  
+Founded **KSENAI** and designed and prototyped an AI-assisted workflow for assessing brand mentions, citations and answer quality. Turned assessments into client-facing diagnostics and implementation plans. I personally design and deliver this work.
 
-**Open to:** AI Transformation, AI Adoption & Enablement, AI Engagement, AI Implementation / Program Delivery, AI/ML Governance and selective Data Science leadership roles. Based in Israel; open to hybrid roles in Israel and remote roles across EMEA time zones.
+**Client work:** [Bruton Lloyd](https://github.com/zybkovetsKs/portfolio/blob/main/projects/website-visibility-case.md) — website and AI search visibility improvements with published before-and-after results; [MintYachting](https://github.com/zybkovetsKs/portfolio/blob/main/projects/ai-assistants.md) — a launched ChatGPT-based yacht concierge.
+
+**Open to:** AI Transformation, AI Adoption & Enablement, AI Delivery and selective DS leadership roles. Israel / remote EMEA.
 
 [Portfolio](https://github.com/zybkovetsKs/portfolio) · [LinkedIn](https://www.linkedin.com/in/ksenia-zybkovets/) · [KSENAI](https://ksenai.ai/)
-
-Public project summaries; proprietary implementations and client data remain private.
