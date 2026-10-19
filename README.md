@@ -12,7 +12,11 @@ At 4finance, owned the group Data & AI roadmap across **10 countries** and led a
 **[AI Search Visibility & LLM Evaluation](https://github.com/zybkovetsKs/portfolio/blob/main/projects/ai-search-visibility.md)**  
 Founded **KSENAI** and designed and prototyped an AI-assisted workflow for assessing brand mentions, citations and answer quality. Turned assessments into client-facing diagnostics and implementation plans. I personally design and deliver this work.
 
-**Client work:** [Bruton Lloyd](https://github.com/zybkovetsKs/portfolio/blob/main/projects/website-visibility-case.md) — website and AI search visibility improvements with published before-and-after results; [MintYachting](https://github.com/zybkovetsKs/portfolio/blob/main/projects/ai-assistants.md) — a launched ChatGPT-based yacht concierge.
+**Client work:** 
+
+[Bruton Lloyd](https://github.com/zybkovetsKs/portfolio/blob/main/projects/website-visibility-case.md) — website and AI search visibility improvements with published before-and-after results;
+
+[MintYachting](https://github.com/zybkovetsKs/portfolio/blob/main/projects/ai-assistants.md) — a launched ChatGPT-based yacht concierge.
 
 **Open to:** AI Transformation, AI Adoption & Enablement, AI Delivery and selective DS leadership roles. Israel / remote EMEA.
 
